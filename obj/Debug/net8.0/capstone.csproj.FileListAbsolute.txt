@@ -1,0 +1,14 @@
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\obj\Debug\net8.0\capstone.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\obj\Debug\net8.0\capstone.AssemblyInfoInputs.cache
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\obj\Debug\net8.0\capstone.AssemblyInfo.cs
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\obj\Debug\net8.0\capstone.csproj.CoreCompileInputs.cache
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\bin\Debug\net8.0\capstone.exe
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\bin\Debug\net8.0\capstone.deps.json
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\bin\Debug\net8.0\capstone.runtimeconfig.json
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\bin\Debug\net8.0\capstone.dll
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\bin\Debug\net8.0\capstone.pdb
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\obj\Debug\net8.0\capstone.dll
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\obj\Debug\net8.0\refint\capstone.dll
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\obj\Debug\net8.0\capstone.pdb
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\obj\Debug\net8.0\capstone.genruntimeconfig.cache
+D:\BSSE 4 - 2\Software design parterns\C# capstone project\capstone\obj\Debug\net8.0\ref\capstone.dll
